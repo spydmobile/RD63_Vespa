@@ -1,6 +1,6 @@
 # RD-63 "Vespa" As-Built Parts List
 
-**Last Updated**: 2024-11-28
+**Last Updated**: 2025-12-02
 **Document Version**: 1.0
 **Status**: Parts Ordered - Awaiting Delivery
 
@@ -10,16 +10,16 @@
 
 | System | Component | Status | Notes |
 |--------|-----------|--------|-------|
-| Frame | SpeedyBee Bee35 | Ordered | 3.5" cinewhoop with prop guards |
-| FC/ESC | HDZero Halo Stack | Ordered | Primary - H743, 70A, integrated ELRS |
-| FC/ESC (Alt) | SpeedyBee F405 Mini Stack | Ordered | Backup option - F405, 35A |
-| Motors | EMAX ECO II 2004 3000KV (x4) | Ordered | - |
-| Props | Gemfan Hurricane 3525 | Ordered | Tri-blade |
-| Video TX | HDZero Race V3 | Ordered | - |
-| Camera | HDZero Nano 90 V2 | Ordered | - |
+| Frame | SpeedyBee Bee35 | In Transit | AliExpress CNG00780675384114 (ETA Dec 18) |
+| FC/ESC | HDZero Halo Stack | In Transit | Primary - H743, 70A, integrated ELRS (FedEx 886320063930) |
+| FC/ESC (Alt) | SpeedyBee F405 Mini Stack | In Stock | Backup option - F405, 35A |
+| Motors | EMAX ECO II 2004 3000KV (x4) | In Transit | AliExpress JY25CAA0D001136806 |
+| Props | Gemfan Hurricane 3525-3 | Received | 10 sets (2CW+2CCW each) |
+| Video TX | HDZero Race V3 | Ordered | HDZero direct order #30050 |
+| Camera | HDZero Nano 90 V2 | Ordered | HDZero direct order #30050 |
 | Receiver | Integrated (Halo Stack) | Ordered | ELRS 2.4GHz Gemini RX |
 | GPS | None | N/A | Not planned for initial build |
-| Batteries | Tattu 4S (x8 total) | Ordered | 850mAh HV + 650mAh standard |
+| Batteries | Tattu 4S (x8 total) | In Stock | 850mAh HV + 650mAh standard |
 
 ---
 
@@ -36,7 +36,12 @@
 | **Weight** | 138g |
 | **Stack Mount** | 20x20mm (also supports 25.5x25.5, 30.5x30.5) |
 | **Camera Mount** | 19mm / 20mm |
-| **Status** | Ordered |
+| **Price** | $40 |
+| **Order Date** | Nov 27, 2025 |
+| **Order ID** | AliExpress #8207230388097853 |
+| **Tracking** | CNG00780675384114 |
+| **ETA** | Dec 18, 2025 |
+| **Status** | In Transit |
 
 ---
 
@@ -57,7 +62,7 @@
 | **Firmware Target** | Betaflight: HDZERO_HALO |
 | **Mounting** | 20x20mm M4 |
 | **Weight** | 5.6g |
-| **Status** | Ordered |
+| **Status** | In Transit (FedEx 886320063930) |
 
 #### Integrated Receiver
 
@@ -83,7 +88,7 @@
 | **Current Sensor** | Scale = 400, Offset = 0 |
 | **Mounting** | 20x20mm |
 | **Weight** | 13.4g |
-| **Status** | Ordered |
+| **Status** | In Transit (FedEx 886320063930) |
 
 ---
 
@@ -102,17 +107,17 @@
 | **Blackbox** | 8MB Flash |
 | **Features** | Built-in Bluetooth, barometer |
 | **Mounting** | 20x20mm |
-| **Status** | Ordered (backup) |
+| **Status** | In Stock |
 
 #### ESC
 
 | Attribute | Value |
 |-----------|-------|
-| **Model** | SpeedyBee 35A 4in1 BLHeli_S |
+| **Model** | SpeedyBee 35A BL_S Mini V2 20x20 4in1 |
 | **Input Voltage** | 3S - 6S |
 | **Current Rating** | 35A continuous |
 | **Firmware** | BLHeli_S |
-| **Status** | Ordered (backup) |
+| **Status** | In Stock |
 
 ---
 
@@ -131,20 +136,21 @@
 | **Weight** | 18g (with wires) |
 | **Max Thrust** | 1130g (on 6S) |
 | **Recommended Props** | 3" - 5" |
-| **Status** | Ordered |
+| **Status** | In Transit (AliExpress JY25CAA0D001136806) |
 
 ### Propellers
 
 | Attribute | Value |
 |-----------|-------|
-| **Model** | Gemfan Hurricane 3525 |
+| **Model** | Gemfan Hurricane 3525-3 |
 | **Size** | 3.5" diameter |
 | **Pitch** | 2.5" |
 | **Blades** | 3 (tri-blade) |
-| **Material** | Polycarbonate (PC) |
+| **Material** | Glass Fiber Nylon |
 | **Weight** | 1.7g each |
 | **Shaft** | 1.5mm (M5 adapter included) |
-| **Status** | Ordered |
+| **Quantity** | 10 sets (2CW+2CCW each) |
+| **Status** | Received |
 
 ---
 
@@ -163,7 +169,7 @@
 | **Dimensions** | 28x32x5mm |
 | **Weight** | 5.5g |
 | **Antenna Connector** | u.FL |
-| **Status** | Ordered |
+| **Status** | Ordered (HDZero direct #30050) |
 
 ### Camera
 
@@ -173,7 +179,7 @@
 | **Frame Rates** | 90fps (540p), 60fps (540p/720p) |
 | **Latency** | 3ms pixel / 14ms glass-to-glass |
 | **Lens** | RC18D |
-| **Status** | Ordered |
+| **Status** | Ordered (HDZero direct #30050) |
 
 ### Antenna
 
@@ -224,7 +230,7 @@
 | **C Rating** | 95C |
 | **Connector** | XT30 |
 | **Quantity** | 4 |
-| **Status** | Ordered |
+| **Status** | In Stock |
 
 #### Set 2: Tattu 650mAh 4S
 
@@ -237,7 +243,7 @@
 | **C Rating** | 95C |
 | **Connector** | XT30 |
 | **Quantity** | 4 |
-| **Status** | Ordered |
+| **Status** | In Stock |
 
 ---
 
@@ -268,6 +274,13 @@
 | Date | Change | Reference |
 |------|--------|-----------|
 | 2024-11-28 | Parts ordered, documentation initialized | - |
+| 2025-12-02 | Props received: 10 sets Gemfan Hurricane 3525-3 | - |
+| 2025-12-02 | HDZero Halo Stack in transit | FedEx 886320063930 |
+| 2025-12-02 | SpeedyBee F405 Mini Stack confirmed in stock | - |
+| 2025-12-02 | Tattu 4S batteries (x8) confirmed in stock | - |
+| 2025-12-02 | EMAX ECO II 2004 3000KV motors in transit | AliExpress JY25CAA0D001136806 |
+| 2025-11-27 | SpeedyBee Bee35 frame ordered ($40) | AliExpress #8207230388097853 |
+| 2025-12-02 | SpeedyBee Bee35 frame in transit (ETA Dec 18) | CNG00780675384114 |
 
 ---
 
