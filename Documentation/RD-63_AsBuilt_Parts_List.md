@@ -1,6 +1,6 @@
 # RD-63 "Vespa" As-Built Parts List
 
-**Last Updated**: 2025-12-02
+**Last Updated**: 2025-12-05
 **Document Version**: 1.0
 **Status**: Parts Ordered - Awaiting Delivery
 
@@ -15,8 +15,8 @@
 | FC/ESC (Alt) | SpeedyBee F405 Mini Stack | In Stock | Backup option - F405, 35A |
 | Motors | EMAX ECO II 2004 3000KV (x4) | In Transit | AliExpress JY25CAA0D001136806 |
 | Props | Gemfan Hurricane 3525-3 | Received | 10 sets (2CW+2CCW each) |
-| Video TX | HDZero Race V3 | Ordered | HDZero direct order #30050 |
-| Camera | HDZero Nano 90 V2 | Ordered | HDZero direct order #30050 |
+| Video TX | HDZero Race V3 | In Transit | HDZero #30050 (FedEx 886713836293) |
+| Camera | HDZero Nano 90 V2 | In Transit | HDZero #30050 (FedEx 886713836293) |
 | Receiver | Integrated (Halo Stack) | Ordered | ELRS 2.4GHz Gemini RX |
 | GPS | None | N/A | Not planned for initial build |
 | Batteries | Tattu 4S (x8 total) | In Stock | 850mAh HV + 650mAh standard |
@@ -169,7 +169,7 @@
 | **Dimensions** | 28x32x5mm |
 | **Weight** | 5.5g |
 | **Antenna Connector** | u.FL |
-| **Status** | Ordered (HDZero direct #30050) |
+| **Status** | In Transit (FedEx 886713836293) |
 
 ### Camera
 
@@ -179,7 +179,7 @@
 | **Frame Rates** | 90fps (540p), 60fps (540p/720p) |
 | **Latency** | 3ms pixel / 14ms glass-to-glass |
 | **Lens** | RC18D |
-| **Status** | Ordered (HDZero direct #30050) |
+| **Status** | In Transit (FedEx 886713836293) |
 
 ### Antenna
 
@@ -281,6 +281,7 @@
 | 2025-12-02 | EMAX ECO II 2004 3000KV motors in transit | AliExpress JY25CAA0D001136806 |
 | 2025-11-27 | SpeedyBee Bee35 frame ordered ($40) | AliExpress #8207230388097853 |
 | 2025-12-02 | SpeedyBee Bee35 frame in transit (ETA Dec 18) | CNG00780675384114 |
+| 2025-12-05 | HDZero VTX + Camera shipped | FedEx 886713836293 |
 
 ---
 
