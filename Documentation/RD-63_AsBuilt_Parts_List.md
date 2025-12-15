@@ -1,6 +1,6 @@
 # RD-63 "Vespa" As-Built Parts List
 
-**Last Updated**: 2025-12-05
+**Last Updated**: 2025-12-15
 **Document Version**: 1.0
 **Status**: Parts Ordered - Awaiting Delivery
 
@@ -11,13 +11,13 @@
 | System | Component | Status | Notes |
 |--------|-----------|--------|-------|
 | Frame | SpeedyBee Bee35 | In Transit | AliExpress CNG00780675384114 (ETA Dec 18) |
-| FC/ESC | HDZero Halo Stack | In Transit | Primary - H743, 70A, integrated ELRS (FedEx 886320063930) |
+| FC/ESC | HDZero Halo Stack | Received | Primary - H743, 70A, integrated ELRS |
 | FC/ESC (Alt) | SpeedyBee F405 Mini Stack | In Stock | Backup option - F405, 35A |
-| Motors | EMAX ECO II 2004 3000KV (x4) | In Transit | AliExpress JY25CAA0D001136806 |
+| Motors | EMAX ECO II 2004 3000KV (x4) | Received | AliExpress JY25CAA0D001136806 |
 | Props | Gemfan Hurricane 3525-3 | Received | 10 sets (2CW+2CCW each) |
 | Video TX | HDZero Race V3 | In Transit | HDZero #30050 (FedEx 886713836293) |
 | Camera | HDZero Nano 90 V2 | In Transit | HDZero #30050 (FedEx 886713836293) |
-| Receiver | Integrated (Halo Stack) | Ordered | ELRS 2.4GHz Gemini RX |
+| Receiver | Integrated (Halo Stack) | Received | ELRS 2.4GHz Gemini RX |
 | GPS | None | N/A | Not planned for initial build |
 | Batteries | Tattu 4S (x8 total) | In Stock | 850mAh HV + 650mAh standard |
 
@@ -62,7 +62,7 @@
 | **Firmware Target** | Betaflight: HDZERO_HALO |
 | **Mounting** | 20x20mm M4 |
 | **Weight** | 5.6g |
-| **Status** | In Transit (FedEx 886320063930) |
+| **Status** | Received |
 
 #### Integrated Receiver
 
@@ -88,7 +88,7 @@
 | **Current Sensor** | Scale = 400, Offset = 0 |
 | **Mounting** | 20x20mm |
 | **Weight** | 13.4g |
-| **Status** | In Transit (FedEx 886320063930) |
+| **Status** | Received |
 
 ---
 
@@ -136,7 +136,7 @@
 | **Weight** | 18g (with wires) |
 | **Max Thrust** | 1130g (on 6S) |
 | **Recommended Props** | 3" - 5" |
-| **Status** | In Transit (AliExpress JY25CAA0D001136806) |
+| **Status** | Received |
 
 ### Propellers
 
@@ -282,6 +282,8 @@
 | 2025-11-27 | SpeedyBee Bee35 frame ordered ($40) | AliExpress #8207230388097853 |
 | 2025-12-02 | SpeedyBee Bee35 frame in transit (ETA Dec 18) | CNG00780675384114 |
 | 2025-12-05 | HDZero VTX + Camera shipped | FedEx 886713836293 |
+| 2025-12-08 | HDZero Halo Stack received | - |
+| 2025-12-15 | EMAX ECO II 2004 3000KV motors received (x4) | - |
 
 ---
 
