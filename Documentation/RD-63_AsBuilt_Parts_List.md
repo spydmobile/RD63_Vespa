@@ -10,7 +10,7 @@
 
 | System | Component | Status | Notes |
 |--------|-----------|--------|-------|
-| Frame | SpeedyBee Bee35 | In Transit | AliExpress CNG00780675384114 (ETA Dec 18) |
+| Frame | SpeedyBee Bee35 | Received | AliExpress CNG00780675384114 |
 | FC/ESC | HDZero Halo Stack | Received | Primary - H743, 70A, integrated ELRS |
 | FC/ESC (Alt) | SpeedyBee F405 Mini Stack | In Stock | Backup option - F405, 35A |
 | Motors | EMAX ECO II 2004 3000KV (x4) | Received | AliExpress JY25CAA0D001136806 |
@@ -40,8 +40,7 @@
 | **Order Date** | Nov 27, 2025 |
 | **Order ID** | AliExpress #8207230388097853 |
 | **Tracking** | CNG00780675384114 |
-| **ETA** | Dec 18, 2025 |
-| **Status** | In Transit |
+| **Status** | Received |
 
 ---
 
@@ -284,6 +283,7 @@
 | 2025-12-05 | HDZero VTX + Camera shipped | FedEx 886713836293 |
 | 2025-12-08 | HDZero Halo Stack received | - |
 | 2025-12-15 | EMAX ECO II 2004 3000KV motors received (x4) | - |
+| 2025-12-15 | SpeedyBee Bee35 frame received | - |
 
 ---
 
