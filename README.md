@@ -11,10 +11,10 @@ This repository serves as the source of truth for the RD-63 "Vespa" drone - a 3.
 
 ## Project Timeline
 
-- **Parts Ordered**: November 28, 2024
-- **Build Commenced**: TBD (parts arriving over next 1-2 months)
+- **Parts Ordered**: November 28, 2025
+- **Build Commenced**: TBD
 - **First Test Flight**: TBD
-- **Status**: Parts Ordered - Awaiting Delivery
+- **Status**: All Parts On Hand - Ready To Build
 
 ---
 
